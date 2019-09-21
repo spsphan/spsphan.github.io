@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Health and Phitness
 
 You can use the [editor on GitHub](https://github.com/spsphan/spsphan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
